@@ -10,4 +10,4 @@ Application for testing ECG and PPG waveforms. It allows you to examine the para
 - skewness
 - kurtosis
 
-# program written for a friend :) #
+program written for a friend :) 
