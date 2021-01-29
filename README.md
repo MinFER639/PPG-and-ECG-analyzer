@@ -1,5 +1,5 @@
-# PPG-and-EKG-analyzer
- Application for PPG and EKG analysis. Matlab.
+# PPG-and-ECG-analyzer
+ Application for PPG and ECG analysis. Matlab.
 
 Application for testing ECG and PPG waveforms. It allows you to examine the parameters:
 - signal length
